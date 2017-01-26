@@ -27,5 +27,5 @@ module.exports = {
     alias: {
       'vue$': 'vue/dist/vue.common.js'
     }
-  },
+  }
 }
