@@ -1,0 +1,15 @@
+{
+  "name": "vue-study",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/gyp2017/vue-study.git",
+  "author": "GimYoungPhil <youngphil.gim@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "server": "python -m SimpleHTTPServer 8000",
+    "bundle": "webpack"
+  },
+  "devDependencies": {
+    "webpack": "beta"
+  }
+}
